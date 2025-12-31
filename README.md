@@ -1,11 +1,16 @@
 # SQL_Music_store_Analysis
 
 SQL project to analyze online music store data
+This project focuses on analyzing a digital music store database using **SQL** to extract meaningful business insights.
 
 
 ## Database and Tools
 * Postgre SQL
 * PgAdmin4
+* Database Management System (DBMS)
+* SQL Joins, Subqueries, CTEs
+* Aggregate Functions
+* Window Functions
 
 ### Schema- Music Store Database
 
