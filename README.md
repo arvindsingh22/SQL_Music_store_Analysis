@@ -10,7 +10,7 @@ This project focuses on analyzing a digital music store database using **SQL** t
 * PgAdmin4
 * Database Management System (DBMS)
 * SQL Joins, Subqueries, CTEs
-* Aggregate Functions
+* Aggregate Functions  
 * Window Functions
 
 ### Schema- Music Store Database
