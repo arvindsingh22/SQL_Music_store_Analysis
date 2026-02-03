@@ -6,7 +6,7 @@ This project focuses on analyzing a digital music store database using **SQL** t
 
 
 ## Database and Tools
-* Postgre SQL
+* Postgre SQL  
 * PgAdmin4
 * Database Management System (DBMS)
 * SQL Joins, Subqueries, CTEs
