@@ -4,7 +4,7 @@ SQL project to analyze online music store data.
  
 This project focuses on analyzing a digital music store database using **SQL** to extract meaningful business insights.
 
-
+  
 ## Database and Tools
 * Postgre SQL  
 * PgAdmin4
